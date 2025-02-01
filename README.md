@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL" alt="GitHub Banner" />
+  <img src="https://raw.githubusercontent.com/Sayan-Pal99/Sayan-Pal99/refs/heads/main/DALL%C2%B7E%202025-02-01%2017.37.22%20-%20A%20modern%20GitHub%20profile%20banner%20for%20a%20web%20developer.%20The%20design%20should%20have%20a%20dark%2C%20futuristic%20theme%20with%20neon%20blue%20and%20purple%20colors.%20It%20should%20includ.webp" alt="GitHub Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm Sayan Pal 👋</h1>
